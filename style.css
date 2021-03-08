@@ -656,11 +656,11 @@ a:-webkit-any-link {
     background: #ff6680 !important;
 }
 
-@media(max-width:468px) {
+/* @media(max-width:468px) {
     .skills li{
         margin-left: 50px;
     }
-}
+} */
 
 /*  #ffc0cb */
 
