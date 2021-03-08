@@ -562,8 +562,11 @@ a:-webkit-any-link {
  .projects .sign__word1 {
      /* margin-bottom: 0; */
      font-size: 5.3rem;
+     color : #fff;
      /* margin-bottom: 100px; */
  }
+
+
  
  @media (max-width:768px) {
      .projects .sign__word1 {
