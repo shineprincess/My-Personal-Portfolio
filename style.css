@@ -656,6 +656,12 @@ a:-webkit-any-link {
     background: #ff6680 !important;
 }
 
+@media(max-width:768px) {
+    .skills li{
+        margin-left: 30px;
+    }
+}
+
 /*  #ffc0cb */
 
 .html {
