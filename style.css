@@ -758,6 +758,11 @@ a:-webkit-any-link {
     font-weight: lighter;
 }
 
+.contact__me .num:hover {
+    color: #ff6680;
+}
+
+
 @media (max-width:768px) {
     .main__contact .social__media {
         margin-left: 40px;
