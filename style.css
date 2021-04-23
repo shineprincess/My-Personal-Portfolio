@@ -431,7 +431,7 @@ a:-webkit-any-link {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
+    min-height: 0vh;
     /* background: #111; */
     /* margin-top: 10px; */
 }
